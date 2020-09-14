@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 **ugurayan/ugurayan** 
-![](https://github.com/ugurayan/ugurayan/blob/master/me.jpeg =50x50)
+
+<img src="https://github.com/ugurayan/ugurayan/blob/master/me.jpeg" alt="" data-canonical-src="https://github.com/ugurayan/ugurayan/blob/master/me.jpeg" width="200" height="200" />
+
+
+
 - 🔭 I’m currently working as a Principal Engineer...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
